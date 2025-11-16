@@ -49,3 +49,12 @@ These features help improve the predictive power of the model.
 The main modelling approach will be **multiple linear regression**, where the **target variable** is the total number of points a team earns in a season.  
 The model will be trained on historical seasons and evaluated on a recent season (most likely **2024/25**) to assess its accuracy.  
 Once validated, the model will be applied to the **2025/26 season’s data** to estimate final points and predict the final league standings.
+
+** Instructions to run the code: **
+1. git clone the repository
+2. Open the Jupyter Notebook file `Sudy_Group_4_Poster_Code.ipynb` in Jupyter Notebook or Jupyter Lab
+3. Run requirements.txt to install the necessary libraries:
+    ```
+    pip install -r requirements.txt
+    ```
+4. Run all the cells in the notebook to generate the results and visualizations
